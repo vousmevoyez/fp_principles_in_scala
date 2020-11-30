@@ -1,0 +1,15 @@
+[debug] The patmat.Huffman has the following regular definitions changed:
+[debug] 	UsedName(Code,[Default]).
+[debug] All member reference dependencies will be considered within this context.
+[debug] Files invalidated by inheriting from (external) patmat.Huffman: Set(); now invalidating by inheritance (internally).
+[debug] Getting direct dependencies of all classes transitively invalidated by inheritance.
+[debug] Getting classes that directly depend on (external) patmat.Huffman.
+[debug] None of the modified names appears in source file of patmat.HuffmanSuite. This dependency is not being considered for invalidation.
+[debug] The patmat.Huffman$ has the following regular definitions changed:
+[debug] 	UsedName(Code,[Default]).
+[debug] All member reference dependencies will be considered within this context.
+[debug] Files invalidated by inheriting from (external) patmat.Huffman$: Set(); now invalidating by inheritance (internally).
+[debug] Getting direct dependencies of all classes transitively invalidated by inheritance.
+[debug] Getting classes that directly depend on (external) patmat.Huffman$.
+[debug] None of the modified names appears in source file of patmat.HuffmanSuite. This dependency is not being considered for invalidation.
+[debug] No changes
