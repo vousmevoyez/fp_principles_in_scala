@@ -1,0 +1,34 @@
+[debug] javaOptions: Vector()
+[debug] Forking tests - parallelism = false
+[debug] Create a single-thread test executor
+[debug] Runner for com.novocode.junit.JUnitFramework produced 1 initial tasks for 1 tests.
+[debug]   Running TaskDef(forcomp.AnagramsSuite, sbt.ForkMain$AnnotatedFingerscan@305faf74, false, [SuiteSelector])
+[info] Test run started
+[info] Test forcomp.AnagramsSuite.dictionaryByOccurrences.get: eat (10pts) started
+[debug] Test forcomp.AnagramsSuite.dictionaryByOccurrences.get: eat (10pts) finished, took 0.45 sec
+[info] Test forcomp.AnagramsSuite.sentenceOccurrences: abcd e (5pts) started
+[debug] Test forcomp.AnagramsSuite.sentenceOccurrences: abcd e (5pts) finished, took 0.003 sec
+[info] Test forcomp.AnagramsSuite.wordAnagrams player (2pts) started
+[debug] Test forcomp.AnagramsSuite.wordAnagrams player (2pts) finished, took 0.001 sec
+[info] Test forcomp.AnagramsSuite.combinations: [] (8pts) started
+[debug] Test forcomp.AnagramsSuite.combinations: [] (8pts) finished, took 0.001 sec
+[info] Test forcomp.AnagramsSuite.sentence anagrams: Linux rulez (10pts) started
+[debug] Test forcomp.AnagramsSuite.sentence anagrams: Linux rulez (10pts) finished, took 0.068 sec
+[info] Test forcomp.AnagramsSuite.subtract: lard - r (10pts) started
+[debug] Test forcomp.AnagramsSuite.subtract: lard - r (10pts) finished, took 0.0 sec
+[info] Test forcomp.AnagramsSuite.wordAnagrams married (2pts) started
+[debug] Test forcomp.AnagramsSuite.wordAnagrams married (2pts) finished, took 0.001 sec
+[info] Test forcomp.AnagramsSuite.sentence anagrams: [] (10pts) started
+[debug] Test forcomp.AnagramsSuite.sentence anagrams: [] (10pts) finished, took 0.001 sec
+[info] Test forcomp.AnagramsSuite.wordOccurrences: Robert (3pts) started
+[debug] Test forcomp.AnagramsSuite.wordOccurrences: Robert (3pts) finished, took 0.0 sec
+[info] Test forcomp.AnagramsSuite.combinations: abba (8pts) started
+[debug] Test forcomp.AnagramsSuite.combinations: abba (8pts) finished, took 0.0 sec
+[info] Test forcomp.AnagramsSuite.wordOccurrences: abcd (3pts) started
+[debug] Test forcomp.AnagramsSuite.wordOccurrences: abcd (3pts) finished, took 0.0 sec
+[info] Test run finished: 0 failed, 0 ignored, 11 total, 0.573s
+[debug]     Produced 0 nested tasks and 11 events.
+[debug] Summary for JUnit not available.
+[info] Passed: Total 11, Failed 0, Errors 0, Passed 11
+[debug] Passed tests:
+[debug] 	forcomp.AnagramsSuite

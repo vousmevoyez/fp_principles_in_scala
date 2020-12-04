@@ -1,0 +1,17 @@
+[info] Packaging C:\Users\laker\Desktop\fp_in_scala\forcomp\target\scala-2.13\progfun1-forcomp-without-resources_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	forcomp\Dictionary$.class
+[debug] 	  C:\Users\laker\Desktop\fp_in_scala\forcomp\target\scala-2.13\classes\forcomp\Dictionary$.class
+[debug] 	forcomp\test_print$.class
+[debug] 	  C:\Users\laker\Desktop\fp_in_scala\forcomp\target\scala-2.13\classes\forcomp\test_print$.class
+[debug] 	forcomp\Anagrams.class
+[debug] 	  C:\Users\laker\Desktop\fp_in_scala\forcomp\target\scala-2.13\classes\forcomp\Anagrams.class
+[debug] 	forcomp\AnagramsInterface.class
+[debug] 	  C:\Users\laker\Desktop\fp_in_scala\forcomp\target\scala-2.13\classes\forcomp\AnagramsInterface.class
+[debug] 	forcomp\Anagrams$.class
+[debug] 	  C:\Users\laker\Desktop\fp_in_scala\forcomp\target\scala-2.13\classes\forcomp\Anagrams$.class
+[debug] 	forcomp\test_print.class
+[debug] 	  C:\Users\laker\Desktop\fp_in_scala\forcomp\target\scala-2.13\classes\forcomp\test_print.class
+[debug] 	forcomp\Dictionary.class
+[debug] 	  C:\Users\laker\Desktop\fp_in_scala\forcomp\target\scala-2.13\classes\forcomp\Dictionary.class
+[info] Done packaging.
